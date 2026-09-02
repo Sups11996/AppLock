@@ -21,14 +21,14 @@ AppLock runs an accessibility service that detects the moment any protected app 
 ## App Screenshots
 
 <p>
-  <img src="screenshots/home.jpeg" width="255"/>
-  <img src="screenshots/auth failed.jpeg" width="255"/>
+  <img src="screenshots/home.jpeg" width="255"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="screenshots/auth failed.jpeg" width="255"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="screenshots/last.jpeg" width="255"/>
 </p>
 
 <p>
-  <img src="screenshots/accessibility.jpeg" width="255"/>
-  <img src="screenshots/draw over apps.jpeg" width="255"/>
+  <img src="screenshots/accessibility.jpeg" width="255"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="screenshots/draw over apps.jpeg" width="255"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="screenshots/uninstall protection.jpeg" width="255"/>
 </p>
 
