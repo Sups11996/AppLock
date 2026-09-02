@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- Base app theme — a dark Material3 theme. Compose uses its own theming,
-         but we still need this for the Activity window (splash / status bar). -->
-    <style name="Theme.AppLock" parent="Theme.Material3.DayNight.NoActionBar">
+    <!-- Base app theme - dark Material3 theme. -->
+    <style name="Theme.AppLock" parent="@android:style/Theme.Material.NoActionBar">
         <item name="android:statusBarColor">@android:color/black</item>
         <item name="android:navigationBarColor">@android:color/black</item>
         <item name="android:windowBackground">@android:color/black</item>
+    </style>
+
+    <!-- Opaque lock screen activity theme to instantly cover underlying app -->
+    <style name="Theme.AppLock.LockActivity" parent="Theme.AppLock">
+        <item name="android:windowBackground">@android:color/black</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
     </style>
 </resources>
