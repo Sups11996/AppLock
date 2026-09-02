@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AppLock</string>
+    <string name="accessibility_service_description">Monitors application window transitions in real-time to immediately launch AppLock protection over locked apps.</string>
+    <string name="device_admin_description">AppLock uses Device Admin to prevent unauthorized uninstallation.</string>
 </resources>
