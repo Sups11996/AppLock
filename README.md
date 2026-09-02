@@ -20,36 +20,21 @@ AppLock runs an accessibility service that detects the moment any protected app 
 
 ## App Screenshots
 
-<table>
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <img src="screenshots/home.jpeg" width="220"/>
-      <br/><sub>Home Screen</sub>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="screenshots/auth failed.jpeg" width="220"/>
-      <br/><sub>Authentication</sub>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="screenshots/last.jpeg" width="220"/>
-      <br/><sub>All Set</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <img src="screenshots/accessibility.jpeg" width="220"/>
-      <br/><sub>Accessibility Permission</sub>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="screenshots/draw over apps.jpeg" width="220"/>
-      <br/><sub>Draw Over Apps</sub>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="screenshots/uninstall protection.jpeg" width="220"/>
-      <br/><sub>Uninstall Protection</sub>
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="screenshots/home.jpeg" width="220"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="screenshots/auth failed.jpeg" width="220"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="screenshots/last.jpeg" width="220"/>
+</p>
+
+<p>
+  <img src="screenshots/accessibility.jpeg" width="220"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="screenshots/draw over apps.jpeg" width="220"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="screenshots/uninstall protection.jpeg" width="220"/>
+</p>
 
 ## Permission Setup Guide
 
